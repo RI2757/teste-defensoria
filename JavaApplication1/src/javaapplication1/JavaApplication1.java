@@ -17,8 +17,10 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         teste t = new teste();
+        deuboa d = new deuboa();
         
         t.oi();
+        d.enois();
     }
     
 }
